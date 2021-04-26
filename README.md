@@ -1,6 +1,8 @@
 # arduino_morse
 Recognize Morse code using Arduino
 
+[![YouTube link](http://img.youtube.com/vi/5lSIcMJk57M/0.jpg)](https://www.youtube.com/watch?v=5lSIcMJk57M "Recognize Morse code using Arduino")
+
 ## Hardware setup
 
 * Arduino Pro Mini: use 3.3V variant if you want to connect Nokia 5110 display directly. ATmega168 is enough, as the flash image is small
